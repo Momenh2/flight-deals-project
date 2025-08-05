@@ -88,10 +88,14 @@ PASSWORD=your_email_app_password
 
 
 ## 🛡️ License
-This project is licensed under the MIT License.
 
+This project is licensed under the [MIT License](LICENSE).
+
+---
 
 ## 🙌 Author
-Momen H.
-GitHub Profile »
+
+**Momen H.**  
+📂 [GitHub Profile »](https://github.com/Momenh2)
+
 
