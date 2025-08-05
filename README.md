@@ -30,7 +30,7 @@ FlightDeals/
 ├── requirements.txt                # Lists Python dependencies
 ├── .gitignore                      # Specifies files/folders to ignore in Git
 └── README.md                       # Project documentation
-
+```
 ---
 
 ## ⚙️ Tech Stack & APIs Used
