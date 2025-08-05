@@ -20,16 +20,15 @@ A Python-based application that monitors real-time flight prices and sends notif
 
 FlightDeals/
 │
-├── flight_Api_search.py # Main execution script (entry point)
-├── flight_data_handler.py # Handles filtering and extracting minimum flight info
-├── flight_search.py # Handles API calls to Tequila for flight data
-├── notification_system_manager.py # Handles sending SMS and emails via Twilio/SMTP
-├── sheet_data_manager.py # Communicates with Sheety API (Google Sheets)
-├── .env # Stores environment variables (API keys, URLs)
-├── requirements.txt # Python dependencies
-├── .gitignore # Files and folders to ignore in version control
-└── README.md # Project documentation
-
+├── flight_Api_search.py             # Main execution script (entry point)
+├── flight_data_handler.py          # Filters and extracts minimum flight data
+├── flight_search.py                # Handles Tequila API calls for flight data
+├── notification_system_manager.py  # Sends SMS and email alerts (Twilio/SMTP)
+├── sheet_data_manager.py           # Interacts with Sheety API (Google Sheets)
+├── .env                            # Stores environment variables (API keys, etc.)
+├── requirements.txt                # Lists Python dependencies
+├── .gitignore                      # Specifies files/folders to ignore in Git
+└── README.md                       # Project documentation
 
 ---
 
