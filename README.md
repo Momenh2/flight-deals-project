@@ -18,6 +18,7 @@ A Python-based application that monitors real-time flight prices and sends notif
 
 ## 🗂️ Project Structure
 
+```text
 FlightDeals/
 │
 ├── flight_Api_search.py             # Main execution script (entry point)
