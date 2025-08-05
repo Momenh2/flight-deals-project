@@ -75,9 +75,9 @@ EMAIL=your_email_address
 PASSWORD=your_email_app_password
 ⚠️ Use an App Password if using Gmail for email notifications https://support.google.com/accounts/answer/185833?hl=en
 
+```
 
-
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 ✅ Automatically detect and add new destination cities.
 
 ✅ Allow users to customize departure location.
@@ -87,11 +87,11 @@ PASSWORD=your_email_app_password
 ⏳ Build a front-end dashboard for users to manage their subscriptions.
 
 
-🛡️ License
+## 🛡️ License
 This project is licensed under the MIT License.
 
 
-🙌 Author
+## 🙌 Author
 Momen H.
 GitHub Profile »
 
